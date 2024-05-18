@@ -4,10 +4,10 @@ This database manages aspects of gym operations such as member registration, att
 
 ## Authors
 
-- Joash Daligcon
-- Lance Mirano
+- zhoda-lii
+- kianaaxd
 
 ## Contributions
 
-- Database Design and Programming (by Joash Daligcon) 
-- Front-End GUI (by Lance Mirano)
+- Database Design and Programming (by zhoda-lii) 
+- Front-End GUI (by kianaaxd)
